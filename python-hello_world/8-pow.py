@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 def pow(a, b):
-    return    (a^b)
+    return (a ^ b)
 pow(2, 2)
 pow(98, 2)
 pow(98, 0)
